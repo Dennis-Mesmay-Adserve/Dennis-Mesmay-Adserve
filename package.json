@@ -4,6 +4,7 @@
   "description": "test react app",
   "main": "index.js",
   "scripts": {
+    "build": "echo 'build script executed'",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
