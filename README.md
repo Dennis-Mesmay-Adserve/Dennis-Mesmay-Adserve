@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dennis Mesmay
+- 👋 Hi, I’m Dennis Mesmay.
 - 👀 I’m interested in AWS, Alexa skills, Python, Boto3
 - 🌱 I’m currently learning AWS for DevOps Professional exam
 - 💞️ I’m looking to collaborate on AWS and Python / Boto3
